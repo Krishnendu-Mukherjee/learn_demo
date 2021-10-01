@@ -1,5 +1,11 @@
-# Introduction
-Krishnendu 
+## to add img from local device
+
+![Hello](https://github.com/Krishnendu-Mukherjee/day3/blob/main/kitten.png)
+
+
+
+# Introduction 🚀 to add emoji : and type the emoji name
+Hii I am Krishnendu 👋 
 
 ## Basic
 
